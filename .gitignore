@@ -1,0 +1,9 @@
+# Environment Variables
+.env
+
+# WordPress Uploads
+wp-content/uploads/
+
+# OS Specific
+.DS_Store
+Thumbs.db
